@@ -10,4 +10,5 @@ EDA.ipynb contains the code used to create several graphics that help us visuali
 
 Plot.png is a big-picture graphic showing the overall trends of these most popular routes.
 
-For more details about the web scrape, the graphics, or the overall trends of the data, my blog contains a post on each. [Blog](https://bacon-a.github.io/stat386-projects/)
+For more details about the web scrape, the graphics, or the overall trends of the data, my [blog](https://bacon-a.github.io/stat386-projects/)
+ contains a post on each.
